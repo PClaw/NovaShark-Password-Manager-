@@ -1,3 +1,6 @@
+
+https://github.com/PClaw/NovaShark-Password-Manager-/blob/be2ed25b012292637f6ef266c627354383582560/IMG_20251231_234852.png
+
 ## 🦈 NovaShark – Secure and Ad-Free Password Manager
 
 **NovaShark** is a **privacy-focused**, **completely offline**, and **ad-free** password manager developed for Android devices.
