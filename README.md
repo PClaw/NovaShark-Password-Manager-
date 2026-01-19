@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="IMG_20260105_183528" src="https://github.com/user-attachments/assets/46cec605-eb4e-4f29-a76b-93b5b4998e17" />
 
 
 ## 🦈 NovaShark – Secure and Ad-Free Password Manager
